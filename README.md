@@ -1,9 +1,9 @@
 Repositório desenvolvido durante os estudos de **Java**, reunindo 19 exemplos práticos de criação de interfaces gráficas utilizando principalmente as bibliotecas **AWT** e **Swing**.
 
-##Funcionalidades
+## Funcionalidades
 Os exemplos apresentam uma evolução gradual dos conceitos, começando pela criação de uma janela (`Frame`) e avançando para componentes visuais, tratamento de eventos, operações matemáticas, menus, formulários, listas, caixas de seleção, botões de opção e pequenas aplicações interativas.
 
-##Criação de interfaces gráficas em Java
+## Criação de interfaces gráficas em Java
 * Java AWT
 * Java Swing
 * `Frame` e `JFrame`
@@ -34,7 +34,7 @@ Os exemplos apresentam uma evolução gradual dos conceitos, começando pela cri
 * Manipulação de textos
 * Interfaces para operações de CRUD
 
-##Observação
+## Observação
 
 Este projeto possui finalidade acadêmica e educacional, sendo utilizado para prática e consolidação dos conhecimentos adquiridos durante os estudos de Java.
 
